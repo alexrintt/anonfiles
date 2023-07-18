@@ -25,7 +25,7 @@ When you upload a file using AnonFiles App, the file is uploaded to the AnonFile
 
 ## Third-party services
 
-AnonFiles App does make use of AnonFiles server to upload and store your file links, and your info, data and files are subject to [their privacy policy](https://anonfiles.com/terms).
+AnonFiles App does make use of AnonFiles server to upload and store your file links. You must be aware that your info, data and files are subject to [their privacy policy](https://anonfiles.com/terms).
 
 ## Changes to this Privacy Policy
 
