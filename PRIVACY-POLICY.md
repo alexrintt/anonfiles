@@ -17,7 +17,7 @@ AnonFiles App and Server do not log downloads.
 
 ## Permissions
 
-In order to upload files from your device, The AnonFiles App requires permission to access your device's storage. This permission is only used to allow the app to upload the files to the AnonFiles Server and is not used for any other purpose. The storage permission follow the [scoped storage](https://source.android.com/docs/core/storage/scoped) architecture guidelines and it's best practices.
+In order to upload files from your device, the AnonFiles App requires permission to access your device's storage. This permission is only used to allow the app to upload the files to the AnonFiles Server and is not used for any other purpose. The storage permission follow the [scoped storage](https://source.android.com/docs/core/storage/scoped) architecture guidelines and it's best practices.
 
 ## Data storage
 
