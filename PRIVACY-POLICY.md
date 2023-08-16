@@ -5,7 +5,7 @@ We take your privacy very seriously. This Privacy Policy explains how we collect
 
 AnonFiles App - We. The app that is available to download.
 
-AnonFiles Server - Them. Third-party server responsible for accepting and storing your files.
+AnonFiles Server - Them. Third-party servers responsible for accepting and storing your files, this include any anonfile servers such as [anonfiles.com](https://anonfiles.com/), [anonymfile.com](https://anonymfile.com/) and [gofile.cc](https://gofile.cc/) but not restricted to.
 
 ## Information we collect
 
@@ -21,7 +21,7 @@ In order to upload files from your device, the AnonFiles App requires permission
 
 ## Data storage
 
-When you upload a file using AnonFiles App, the file is uploaded to the AnonFiles Server and it is subject to their [privacy policy](https://anonfiles.com/terms). AnonFiles App does not collect any information about the files you upload or download.
+When you upload a file using AnonFiles App, the file is uploaded to the AnonFiles Server and it is subject to their privacy policy. AnonFiles App does not collect any information about the files you upload or download.
 
 ## Third-party services
 
