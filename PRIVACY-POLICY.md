@@ -13,7 +13,7 @@ AnonFiles App does not collect any personally identifiable information from user
 
 ## Logging Downloads
 
-AnonFiles App and Server do not log downloads.
+AnonFiles App do not log downloads.
 
 ## Permissions
 
