@@ -9,11 +9,11 @@ AnonFiles Server - Them. Third-party servers responsible for accepting and stori
 
 ## Information we collect
 
-AnonFiles App does not collect any personally identifiable information from users. We do not require you to sign up or provide any personal information to use our app.
+AnonFiles App does not collect any personally identifiable information from users although we may collect anonymous crash details to improve our product. We do not require you to sign up or provide any personal information to use our app.
 
 ## Logging Downloads
 
-AnonFiles App do not log downloads.
+AnonFiles App do not log downloads but we can not guarantee the AnonFiles Server does the same.
 
 ## Permissions
 
