@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://alexrintt.io/r/anonfiles">
-  <img src="https://github.com/alexrintt/anonfiles/assets/51419598/46ceeb30-2ed1-4e6f-92df-6d4cf4d224ee" />
+  <img src="https://github.com/alexrintt/anonfiles/assets/51419598/8a8d7820-d55c-44df-9a12-97fce367e797" />
 <a>
 
 <a href="https://alexrintt.io/r/anonfiles/playstore">
