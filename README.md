@@ -4,19 +4,19 @@
 
 <a href="https://alexrintt.io/r/anonfiles">
   <img src="https://github.com/alexrintt/anonfiles/assets/51419598/8a8d7820-d55c-44df-9a12-97fce367e797" />
-<a>
+</a>
 
 <a href="https://alexrintt.io/r/anonfiles/playstore">
   <img src="https://alexrintt.io/static/get-it-badge/play-store-small-flat-square.png" /> 
-<a>
+</a>
 
 <a href="https://alexrintt.io/r/telegram">
   <img src="https://alexrintt.io/static/get-it-badge/telegram-small-flat-square.png" />
-<a>
+</a>
 
 <a href="https://alexrintt.io/r/anonfiles/discord">
   <img src="https://alexrintt.io/static/get-it-badge/discord-small-flat-square.png" />
-<a>
+</a>
   
 <br />
 <br />
@@ -27,5 +27,5 @@
 </p>
 
 <h3 align="center">
-  <a href="https://alexrintt.io/r/sponsor">Become Sponsor</p>
+  <a href="https://alexrintt.io/r/sponsor">Become Sponsor</a>
 </h3>
