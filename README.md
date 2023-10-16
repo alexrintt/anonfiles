@@ -1,5 +1,5 @@
 <a href="https://alexrintt.io/r/discord">
-  <img src="https://img.shields.io/discord/1045839711094194256?style=flat-square&color=%23FFFFFF&logo=discord&logoColor=%23FFFFFF" />
+  <img src="https://img.shields.io/discord/1045839711094194256?style=flat-square&labelColor=%23181B25&color=%23FFFFFF&logo=discord&logoColor=%23FFFFFF" />
 </a>
 
 <a href="https://alexrintt.io/r/anonfiles">
