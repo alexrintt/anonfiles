@@ -14,6 +14,10 @@
   <img src="https://alexrintt.io/static/get-it-badge/telegram-small-flat-square.png" />
 <a>
 
+<a href="https://alexrintt.io/r/anonfiles/discord">
+  <img src="https://alexrintt.io/static/get-it-badge/discord-small-flat-square.png" />
+<a>
+
 <p align="center">
   <img src="https://alexrintt.io/sponsors/banner.svg" /> 
 </p>
